@@ -21,11 +21,11 @@ This project is a real-time collaborative document editor built using React, Qui
 
 1. Clone the repository:
    ```bash
-   git clone hhttps://github.com/frontenddeveloperpraveen/DocNext.git
+   git clone hhttps://github.com/frontenddeveloperpraveen/Docnest.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd DocNext
+   cd Docnest
    ```
 3. Install the dependencies:
    ```bash
